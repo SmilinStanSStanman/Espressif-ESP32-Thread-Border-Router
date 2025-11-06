@@ -1,3 +1,5 @@
+This guide is a step-by-step construction of a Thread Border Router made following this video by unlocoysutecnologia https://www.youtube.com/watch?v=X5yOhwx6ZzA
+
 **<ins>[SP32-C6 (OpenThread Radio Co-Processor - RCP)]</ins>**
 
 GitHub project for OpenThread Border Router:
