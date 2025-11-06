@@ -64,6 +64,8 @@ ESP Thread Border Router Example >>> Border router board type (Border router dev
 
 [ESP32-S3 SCHEMATIC]
 
+![ESP32-S3 Schematic](docs/XIAO-ESP32-S3.jpg)
+
 [CONNECTION BETWEEN ESP32-S3 BORDER ROUTER AND ESP32-C6 RADIO CO-PROCESSOR]
 
 GPIO44 (RX) pin of the XIAO ESP32-S3 Border Router to the TX pin of the XIAO ESP32-C6 (RCP)
