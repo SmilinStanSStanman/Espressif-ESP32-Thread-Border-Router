@@ -36,7 +36,7 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 
 3.- This menu will open. Follow these steps:
 
-    ![Menu Screenshot 1](docs/MENUCONFIG.jpg)
+    ![Menu Screenshot 1](/docs/MENUCONFIG.jpg)
 
 Navigate to:
 
@@ -44,7 +44,7 @@ ESP Thread Border Router Example >>> Border router board type (Border router dev
 
 4.- After selecting these options, you return to the main menu "ESP Thread Border Router Example." Go to the "Board Configuration" option and configure the TX and RX pins as follows:
 
-    ![Menu Screenshot 2](docs/PINS.jpg)
+    ![Menu Screenshot 2](/docs/PINS.jpg)
 
 5.- Press ESC to go back to the "ESP Thread Border Router Example" menu. Go to "Border router RCP target (ESP32-H2)" and select ESP32-C6.
 
