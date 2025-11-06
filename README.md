@@ -1,4 +1,4 @@
-<strong><ins><span style="color:red;">[SP32-C6 (OpenThread Radio Co-Processor - RCP)]</span></ins></strong>
+**<ins>[SP32-C6 (OpenThread Radio Co-Processor - RCP)]</ins>**
 
 GitHub project for OpenThread Border Router:
 https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
@@ -22,11 +22,13 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 
     idf.py flash
 
-[ESP32-C6 SCHEMATIC]
+**<ins>[ESP32-C6 SCHEMATIC]</ins>**
 
 ![ESP32-C6 Schematic](docs/XIAO-ESP32-C6.jpg)
 
-[ESP32-S3 (OpenThread Border Router)]
+
+
+**<ins>[ESP32-S3 (OpenThread Border Router)]</ins>**
 
 1.- Clone the Github repository for the Border Router project. In the CMD window execute:
 
@@ -69,11 +71,13 @@ ESP Thread Border Router Example >>> Border router board type (Border router dev
 
     idf.py flash monitor
 
-[ESP32-S3 SCHEMATIC]
+**<ins>[ESP32-S3 SCHEMATIC]</ins>**
 
 ![ESP32-S3 Schematic](docs/XIAO-ESP32-S3.jpg)
 
-[CONNECTION BETWEEN ESP32-S3 BORDER ROUTER AND ESP32-C6 RADIO CO-PROCESSOR]
+
+
+**<ins>[CONNECTION BETWEEN ESP32-S3 BORDER ROUTER AND ESP32-C6 RADIO CO-PROCESSOR]</ins>**
 
 GPIO44 (RX) pin of the XIAO ESP32-S3 Border Router to the TX pin of the XIAO ESP32-C6 (RCP)
 
