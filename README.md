@@ -88,3 +88,7 @@ GPIO43 (TX) pin of the XIAO ESP32-S3 Border Router to the RX pin of the XIAO ESP
 GND pin of the ESP32-S3 Border Router to the GND pin of the XIAO ESP32-C6 (RCP)
 
 5V pin of the ESP32-S3 Border Router to the 5V pin of the XIAO ESP32-C6 (RCP)
+
+A 3D printed case is available to download in Makerworld: https://makerworld.com/es/models/1967200-esp32-openthread-border-router-for-home-assistant?from=search#profileId-2114938
+
+![Case](docs/CASE.jpg)
