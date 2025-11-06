@@ -23,7 +23,6 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 [ESP32-C6 SCHEMATIC]
 
 ![ESP32-C6 Schematic](XIAO-ESP32-C6.png)
-https://github.com/SmilinStanSStanman/Espressif-ESP32-Thread-Border-Router/blob/main/XIAO-ESP32-C6.png
 
 [ESP32-S3 (OpenThread Border Router)]
 
