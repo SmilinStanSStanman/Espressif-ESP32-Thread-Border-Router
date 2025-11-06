@@ -22,6 +22,8 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 
 [ESP32-C6 SCHEMATIC]
 
+https://github.com/SmilinStanSStanman/Espressif-ESP32-Thread-Border-Router/blob/main/XIAO-ESP32-C6.png
+
 [ESP32-S3 (OpenThread Border Router)]
 
 1.- Clone the Github repository for the Border Router project. In the CMD window execute:
