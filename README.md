@@ -12,12 +12,14 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 4.- Navigate to "C:\Espressif\frameworks\esp-idf-v5.4.2\examples\openthread\ot_rcp"
 
 5.- Run the following commands in the CMD window:
-idf.py set-target esp32c6
-idf.py build
+
+    idf.py set-target esp32c6
+    idf.py build
 
 6.- Connect the ESP32C6 to the PC.
 
 7.- Run the following command in the CMD window:
+
     idf.py flash
 
 [ESP32-C6 SCHEMATIC]
