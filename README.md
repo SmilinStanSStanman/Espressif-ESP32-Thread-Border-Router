@@ -36,6 +36,8 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 
 3.- This menu will open. Follow these steps:
 
+    ![Menu Screenshot](docs/MENUCONFIG.jpg)
+
 Navigate to:
 
 ESP Thread Border Router Example >>> Border router board type (Border router dev kit) >>> Standalone dev kits
