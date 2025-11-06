@@ -1,4 +1,4 @@
-[SP32-C6 (OpenThread Radio Co-Processor - RCP)]
+**<ins>[SP32-C6 (OpenThread Radio Co-Processor - RCP)]</ins>**
 
 GitHub project for OpenThread Border Router:
 https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
