@@ -29,10 +29,12 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 [ESP32-S3 (OpenThread Border Router)]
 
 1.- Clone the Github repository for the Border Router project. In the CMD window execute:
+
     cd C:\\Espressif\\frameworks\\esp-idf-v5.4.2
     git clone --recursive https://github.com/espressif/esp-thread-br.git
 
 2.- In the CMD window execute:
+
     cd C:\\Espressif\\frameworks\\esp-idf-v5.4.2\\esp-thread-br\\examples\\basic_thread_border_router
     idf.py menuconfig
 
@@ -51,6 +53,7 @@ ESP Thread Border Router Example >>> Border router board type (Border router dev
 5.- Press ESC to go back to the "ESP Thread Border Router Example" menu. Go to "Border router RCP target (ESP32-H2)" and select ESP32-C6.
 
 6.- Back in the "ESP Thread Border Router Example" menu, activate the following two options:
+
     Enable the automatic start mode in Thread Border Router
     Enable the web server in Thread Border Router
 
@@ -59,9 +62,11 @@ ESP Thread Border Router Example >>> Border router board type (Border router dev
 8.- Press "S" to save the configuration, then press "Q" to exit the menu.
 
 9.- In the CMD window, run:
+
     idf.py build
 
 10.- Connect the XIAO ESP32-S3 to the PC. In the CMD window, run:
+
     idf.py flash monitor
 
 [ESP32-S3 SCHEMATIC]
