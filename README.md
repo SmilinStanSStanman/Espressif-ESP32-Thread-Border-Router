@@ -30,12 +30,12 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 
 1.- Clone the Github repository for the Border Router project. In the CMD window execute:
 
-    cd C:\\Espressif\\frameworks\\esp-idf-v5.4.2
+    cd C:\Espressif\frameworks\esp-idf-v5.4.2
     git clone --recursive https://github.com/espressif/esp-thread-br.git
 
 2.- In the CMD window execute:
 
-    cd C:\\Espressif\\frameworks\\esp-idf-v5.4.2\\esp-thread-br\\examples\\basic_thread_border_router
+    cd C:\Espressif\frameworks\esp-idf-v5.4.2\esp-thread-br\examples\basic_thread_border_router
     idf.py menuconfig
 
 3.- This menu will open. Follow these steps:
@@ -76,6 +76,9 @@ ESP Thread Border Router Example >>> Border router board type (Border router dev
 [CONNECTION BETWEEN ESP32-S3 BORDER ROUTER AND ESP32-C6 RADIO CO-PROCESSOR]
 
 GPIO44 (RX) pin of the XIAO ESP32-S3 Border Router to the TX pin of the XIAO ESP32-C6 (RCP)
+
 GPIO43 (TX) pin of the XIAO ESP32-S3 Border Router to the RX pin of the XIAO ESP32-C6 (RCP)
+
 GND pin of the ESP32-S3 Border Router to the GND pin of the XIAO ESP32-C6 (RCP)
+
 5V pin of the ESP32-S3 Border Router to the 5V pin of the XIAO ESP32-C6 (RCP)
