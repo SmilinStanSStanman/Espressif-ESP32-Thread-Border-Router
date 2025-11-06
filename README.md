@@ -36,7 +36,7 @@ https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_rcp
 
 3.- This menu will open. Follow these steps:
 
-    ![Menu Screenshot](/docs/MENUCONFIG.jpg)
+    ![Menu Screenshot](docs/MENUCONFIG.jpg)
 
 Navigate to:
 
